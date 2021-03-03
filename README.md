@@ -1,4 +1,4 @@
-## Hola, I'm [Inder Bir Singh!] 👋
+## Hey, I'm [Inder Bir Singh!] 👋
 
 
 
