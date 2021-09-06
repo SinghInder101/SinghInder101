@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on MERN or Java.
 - 💬 Ask me about anything related to React.
 - 📫 How to reach me: [Twitter - @InderbirsSingh](https://twitter.com/InderbirsSingh)
-- 😄 Pronouns: He/His
+
 
 
 
